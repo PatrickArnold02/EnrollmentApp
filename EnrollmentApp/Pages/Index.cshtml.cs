@@ -12,9 +12,10 @@ namespace EnrollmentApp.Pages
             _logger = logger;
         }
 
+        public string myFirstTextLiteral;
         public void OnGet()
         {
-
+            this.myFirstTextLiteral = "Hello, world!";
         }
     }
 }

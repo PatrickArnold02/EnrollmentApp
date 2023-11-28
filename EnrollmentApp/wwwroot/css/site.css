@@ -16,3 +16,13 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+table
+{
+    width: 100%;
+}
+
+th, td{
+    padding: 10px 10px 10px 10px;
+    border: 1px solid black;
+}
